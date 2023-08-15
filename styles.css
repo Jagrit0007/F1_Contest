@@ -1,0 +1,18 @@
+body{
+    padding: 30px;
+}
+#section-1{
+    border: 5px solid black;
+    padding: 30px;;
+}
+a{
+    color:black;
+}
+#section-2{
+    border:5px solid black;
+    padding: 30px;
+}
+#section-3{
+    border:5px solid black;
+    padding: 30px;
+}
